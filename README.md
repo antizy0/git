@@ -11,3 +11,6 @@
 10.	连引用一起下载
 git clone --resursive https://github.com/openssl/openssl.git
 
+设置当前用户信息:
+  git config --global user.name "antizy0"   
+  git config --global user.email antizy0@gmail.com
