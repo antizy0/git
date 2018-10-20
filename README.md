@@ -9,7 +9,7 @@
 8.	git log :查看提交log
 9.	git reset -hard HEAD^/HEAD^^/HEAD~100 : 回退版本1/2/100个
 10.	连引用一起下载
-git clone --resursive https://github.com/openssl/openssl.git
+git clone --recursive https://github.com/openssl/openssl.git
 
 设置当前用户信息:
   git config --global user.name "antizy0"   
